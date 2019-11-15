@@ -1,0 +1,68 @@
+<div id="feature" *ngIf="buttons !== null && sliders !== null">
+    <div class="container">
+      <div class="row">
+  
+        <div class="text-center">
+          <h3>{{sliders.Header.name}}</h3>
+        </div>
+        
+        <div class="col-md-6">
+          
+          <div class="text-center">
+            <p>{{sliders.Paragraf.name}}</p>
+          </div>
+          
+          <div class="col-md-3 wow fadeInRight" data-wow-offset="0"
+            data-wow-delay="0.3s">
+            <div class="text-center">
+              <div class="hi-icon-wrap hi-icon-effect">
+                <i class="{{buttons.Internet.img}}"></i>
+                <h2>{{buttons.Internet.id}}</h2>
+                <p>{{buttons.Internet.name}}</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-3 wow fadeInRight" data-wow-offset="0"
+            data-wow-delay="0.3s">
+            <div class="text-center">
+              <div class="hi-icon-wrap hi-icon-effect">
+                <i class="{{buttons.MedicalCare.img}}"></i>
+                <h2>{{buttons.MedicalCare.id}}</h2>
+                <p>{{buttons.MedicalCare.name}}</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-3 wow fadeInLeft" data-wow-offset="0"
+            data-wow-delay="0.3s">
+            <div class="text-center">
+              <div class="hi-icon-wrap hi-icon-effect">
+                <i class="{{buttons.Integrity.img}}"></i>
+                <h2>{{buttons.Integrity.id}}</h2>
+                <p>{{buttons.Integrity.name}}</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-3 wow fadeInLeft" data-wow-offset="0"
+            data-wow-delay="0.3s">
+            <div class="text-center">
+              <div class="hi-icon-wrap hi-icon-effect">
+                <i class="{{buttons.Society.img}}"></i>
+                <h2>{{buttons.Society.id}}</h2>
+                <p>{{buttons.Society.name}}</p>
+              </div>
+            </div>
+          </div>
+        </div>
+  
+        <div class="col-md-6">
+          
+          <div >
+              <div class="thumbnail" style="margin-left: 3vw">
+              <img src="{{sliders.Image.img}}" class="img-rounded" style="width:100%; height: 50vw;" />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  

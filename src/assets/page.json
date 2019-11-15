@@ -1,0 +1,63 @@
+{
+    "button": {
+        "Left": {
+            "id": "Left",
+            "name": "",
+            "img": "fa fa-angle-left"
+        },
+        "Right": {
+            "id": "Right",
+            "name": "",
+            "img": "fa fa-angle-right"
+        },
+        "FastReview": {
+            "id": "FastReview",
+            "name": "Brzi pregled",
+            "img": ""
+        },
+        "Offest": {
+            "id": "Offest",
+            "name": "Ponude",
+            "img": ""
+        },
+        "Gallery": {
+            "id": "Gallery",
+            "name": "Galerija",
+            "img": ""
+        },
+        "Accommodation": {
+            "id": "Accommodation",
+            "name": "Smeštaj",
+            "img": ""
+        }
+    },
+    "Headers": {
+        "News": {
+            "id": "News",
+            "name": "Novosti",
+            "img": ""
+        }
+    },
+    "DisableButton": {
+        "Internet": {
+            "id": "Internet",
+            "name": "Mogucnost komunikacije sa korisnicima preko savremenih tehnologija kao sto su viber, skype",
+            "img": "fa fa-laptop"
+        },
+        "MedicalCare": {
+            "id": "Medicinska nega",
+            "name": "Korisnici doma imaju punu zdravstvenu negu našeg stručnog tima",
+            "img": "fa fa-heart-o"
+        },
+        "Integrity": {
+            "id": "Integritet",
+            "name": "bezbedjen integritet korisnika, kao i sef u slucaju da korisnik zeli da cuva neke dragocenosti",
+            "img": "fa fa-cloud"
+        },
+        "Society": {
+            "id": "Društvenost",
+            "name": "Društveni život je naročito zastupljen u našem domu",
+            "img": "fa fa-camera"
+        }
+    }
+}

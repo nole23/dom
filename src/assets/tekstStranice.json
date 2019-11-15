@@ -1,0 +1,221 @@
+{
+    "Home": {
+        "FirstSlider": {
+            "Header": {
+                "id": "Header",
+                "name": "JU Dom Za Starija Lica - Kiseljak",
+                "img": ""
+            },
+            "Body": {
+                "id": "Body",
+                "name": "Dom za starija lica u Kiseljaku kod Zvornika",
+                "img": ""
+            },
+            "Image": {
+                "id": "Image",
+                "name": "",
+                "img": "../../../assets/img/slider/1.jpg"
+            }
+        },
+        "SecondSlider": {
+            "Header": {
+                "id": "Header",
+                "name": "Dvokrevetne i više krevetne sobe",
+                "img": ""
+            },
+            "Body": {
+                "id": "Body",
+                "name": "opremljene za razne tipove korisnika u cilju najboljeg mogućeg konfora",
+                "img": ""
+            },
+            "Image": {
+                "id": "Image",
+                "name": "",
+                "img": "../../../assets/img/slider/2.jpg"
+            }
+        },
+        "ThirdSlider": {
+            "Header": {
+                "id": "Header",
+                "name": "Profesionalna usluga",
+                "img": ""
+            },
+            "Body": {
+                "id": "Body",
+                "name": "Svi radnici su kvalifikovani i predani svom poslu",
+                "img": ""
+            },
+            "Image": {
+                "id": "Image",
+                "name": "",
+                "img": "../../../assets/img/slider/3.jpg"
+            }
+        },
+        "Paragraf": {
+            "id": "Paragraf",
+            "name": "“Ljubav počinje u domu, i nije bitno koliko radimo, već koliko ljubavi ulažemo u to što radimo.” - Majka Tereza",
+            "img": ""
+        },
+        "News": [
+            {
+                "id":"1",
+                "headerStories":"Otvaranje sajta",
+                "bodyStories":"Početak rada i održavanja sajta od 2019. godine. Ovde možete pronaći sve informacije koje vas zanimaju i lokaciji gdje se nalazi 'Dom Za Starija Lica'. Imajte u vidu da na ovom sajtu nećemo kačiti uvjek najnovije vijesti, ali u ćemo se truditi da sto prije objavimo neku novu vjest, ili da vam odgovorimo na bilo kakvo pitanje. Hvala na povjerenju! :D",
+                "img":"../../../assets/img/news/1.jpg"
+            }
+        ]
+    },
+    "About": {
+        "Header": {
+            "id":"Header",
+            "name":"O nama - Dom za stare Kiseljak",
+            "img":""
+        },
+        "Paragraf": {
+            "id":"Paragraf",
+            "name":"Javna Ustanova 'Dom za stara lica' Kiseljak - Zvornik nudi smještaj za 40 korisnika, vrhunsku njegu u objektu nove gradnje, dvokrevetnim, trokrevetnim i višekrevetnim sobama. Sve je opremljeno u cilju kako bi se korisnici osjećali sigurno, komforno i zbrinuto. Osnivač ustanove je opština Zvornik. Sjedište ustanove je u Kiseljaku, u pitomom urbanom mjestu na obroncima planine Majevice, poznatom po svojim prirodnim bogatstvima devet mineralnih voda - po kvalitetu, ljekovitosti i ukusu jedinstvenih u Republici",
+            "img":""
+        },
+        "Image": {
+            "id":"Image",
+            "name":"",
+            "img":"../../../assets/img/dom/13.jpg"
+        }
+    },
+    "Gallery": {
+        "Header": {
+            "id":"Header",
+            "name":"Galerija",
+            "img":""
+        },
+        "Paragraf": [
+            {
+                "id":"First",
+                "name":"Prikazana je galerija najnovijih slika koje su azurirane",
+                "img":""
+            },
+            {
+                "id":"Second",
+                "name":"na njima se može vidjeti raspoloženje naših korisnika",
+                "img":""
+            }
+        ]
+    },
+    "Accommodation": {
+        "Picture": [
+            {
+                "id":"Picture",
+                "name":"",
+                "img":"../../../assets/img/dom/15.jpg"
+            },
+            {
+                "id":"Picture",
+                "name":"",
+                "img":"../../../assets/img/dom/2.jpg"
+            },
+            {
+                "id":"Picture",
+                "name":"",
+                "img":"../../../assets/img/dom/9_1.jpg"
+            }
+        ],
+        "Header": {
+            "id":"Header",
+            "name":"Smještaj u Domu za stare Kiseljak - Zvornik",
+            "img":"../../../assets/img/dom/9_1.jpg"
+        },
+        "Information": [
+            {
+                "id":"First",
+                "name":"Ovde ide neki tekst",
+                "img":""
+            },
+            {
+                "id":"First",
+                "name":"Ovde ide neki drugi tekst",
+                "img":""
+            }
+        ],
+        "News": [
+            {
+                "id":"First",
+                "name":"Ovde mozemo malo istorije staviti kako bi izgledalo malo ljepse ne znam ni sam sta moze sve",
+                "img":""
+            },
+            {
+                "id":"First",
+                "name":"Ovde mozemo malo istorije staviti kako bi izgledalo malo ljepse ne znam ni sam sta moze sve",
+                "img":""
+            }
+        ]
+    },
+    "Contant": {
+        "Header": {
+            "H3": {
+                "id":"H3",
+                "name":"Kontaktirajte nas",
+                "img":""
+            },
+            "P": {
+                "id":"P",
+                "name":"Ukoliko imate neko pitanje mozete nam pisati na email ili nas kontaktirati putem telefon",
+                "img":""
+            }
+        },
+        "Maps": {
+            "id":"Maps",
+            "name":"Mapa",
+            "img":""
+        },
+        "ContantInformation": {
+            "id":"ContantInformation",
+            "name":"Kontakt informacije",
+            "img":""
+        },
+        "ULContantInformation": [
+            {
+                "id":"First",
+                "name":["JU 'Dom za stara lica' Kiseljak 75413 Kozluk - Zvornik Republika Srpska Bosna i Hercegovina"],
+                "img":"fa fa-home fa-2x"
+            },
+            {
+                "id":"Second",
+                "name":["+387 (0)56 391 031", "+387 (0)56 391 006"],
+                "img":"fa fa-phone fa-2x"
+            },
+            {
+                "id":"Thread",
+                "name":["yodomzastaralicakiseljak@gmail.com"],
+                "img":"fa fa-envelope fa-2x"
+            }
+        ],
+        "Form": {
+            "Name": {
+                "id":"Name",
+                "name":"Vase ime",
+                "img":""
+            },
+            "Email": {
+                "id":"Email",
+                "name":"Molimo vas unesite vas email",
+                "img":""
+            },
+            "Title": {
+                "id":"Title",
+                "name":"Naslov poruke",
+                "img":""
+            },
+            "Message": {
+                "id":"Message",
+                "name":"Poruka",
+                "img":""
+            },
+            "Button": {
+                "id":"Button",
+                "name":"Posaljite poruku",
+                "img":""
+            }
+        }
+        
+    }
+}

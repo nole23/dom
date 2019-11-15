@@ -1,0 +1,36 @@
+<div class="container" *ngIf="sliders !== null">
+		<div class="row" style="margin-top: 15px">
+			
+			<div class="col-md-8" >
+				<div class="item">
+					<div class="img-area">
+						<img src="{{sliders.Picture[0].img}}" alt="" width="100%" height="100%">
+					</div>
+					<div class="float">
+						<img src="{{sliders.Picture[1].img}}" alt="" width="100%" height="100%" >
+					</div>
+					<div class="float">
+						<img src="{{sliders.Picture[2].img}}" alt="" width="100%" height="100%" >
+					</div>
+				</div>
+
+				<div style="margin-left: 20px;">
+					
+					<h2 style="font-size: 30px">{{sliders.Header.name}}</h2>
+				</div>
+
+				<div style=" width: 65vw">
+					<p class="text-left" *ngFor="let item of sliders.Information">
+						{{item.name}}
+					</p>
+				</div>
+			</div>
+
+			<div class="col-md-4">
+				
+				<span *ngFor="let item of sliders.News"> <p style="line-height: 0.9;">{{item.name}}</p></span>
+
+			</div>
+
+		</div>
+	</div>

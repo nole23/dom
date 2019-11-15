@@ -1,0 +1,9 @@
+.container-overlay {
+    height: 100vh;
+    margin-top: 0px;
+}
+
+.max-width-screen {
+    max-width: 1600px;
+    margin: auto;
+}
