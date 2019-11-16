@@ -19,9 +19,9 @@ app.use(function (req, res, next) {
 });
 
 app.use('/static', express.static('public'));
-app.use(express.static(__dirname + '/dist/twoWay'));
+app.use(express.static(__dirname + '/dist/dom'));
 app.get('*', function(req, res) {
-  res.sendFile(path.join(__dirname + '/dist/twoWay/index.html'));
+  res.sendFile(path.join(__dirname + '/dist/dom/index.html'));
 })
 
 var http = require('http').Server(app);
